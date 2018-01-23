@@ -1,2 +1,5 @@
 # hello-world
-First repository
+
+Hello people!
+
+This is a test to learn how to create repositories and branches.
